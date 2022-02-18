@@ -19,7 +19,7 @@ https://learn.unity.com/project/roll-a-ball
 2. Movement tutorials - to understand physics in Unity
    ... 
   
- -Download and examine Unity+PureData+OSC procedural audio game:
+ -Download and examine Unity+PureData+OSC procedural audio game: - PG
  http://puredata.info/Members/videogameaudio/unitypuredata
  
  -Use downloaded prefabs to control sound. Create interesting rigid bodies
